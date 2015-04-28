@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BD104EE-E4EE-4C70-911D-E8E477D1AC02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>雷达效果</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>218CD5E085E833DF43E8DC88118149D76A610039</key>
+		<string>github.com:linlizhi10/radarEffect</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>雷达效果.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>218CD5E085E833DF43E8DC88118149D76A610039</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:linlizhi10/radarEffect</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>218CD5E085E833DF43E8DC88118149D76A610039</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>218CD5E085E833DF43E8DC88118149D76A610039</string>
+			<key>IDESourceControlWCCName</key>
+			<string>radarEffectSSH</string>
+		</dict>
+	</array>
+</dict>
+</plist>
